@@ -24,7 +24,7 @@ module.exports = function sendmail(Fields, email) {
         secure: false, // true for 465, false for other ports
         auth: {
             user: "do.not.reply.optica@gmail.com", // generated ethereal user
-            pass: "Optica01!" // generated ethereal password
+            pass: "FAKEPASSWORD" // generated ethereal password
         }
     });
 
