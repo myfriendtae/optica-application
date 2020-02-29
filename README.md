@@ -1,9 +1,11 @@
 # Optica Web Application
-Web application that facilitates staff to record production data easier.
+The full stack web application that helps to enter simple manufacturing forms.
 
-The MERN Stack Front to Back technologies that I have used are:
+Applying the MERN principle, I used the following technologies to build this app:
 - NodeJS
-- ReactJS
-- MongoDB
+- React
+- Redux
+- MySQL
+- ES6+
 
 ![landing page](https://github.com/myfriendtae/optica-webapplication/blob/master/project_screenshot.png?raw=true)
